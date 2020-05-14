@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: org.mova.BlockHoundAgent
+Boot-Class-Path: Agent.jar
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
